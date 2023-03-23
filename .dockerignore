@@ -1,0 +1,6 @@
+# "These files are still sent to the daemon because it needs them to do its
+# job. But the ADD and COPY instructions do not copy them to the image."
+# https://docs.docker.com/engine/reference/builder/#dockerignore-file
+Dockerfile
+.dockerignore
+
