@@ -1,6 +1,6 @@
 # SSH Server Container
 
-A simple SSH server container. Not audited for production use. :)
+A simple SSH server container. May not be suitable for production use. :)
 
 ```sh
 # Set the root password
